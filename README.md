@@ -7,6 +7,7 @@ To run this code run the following inside your terminal
 ```
 cd desired-path
 git clone https://github.com/wyattbroyles/UOL-Trading-Platform.git
+cd UOL-Trading-Platform
 g++ *.cpp
 ./a.exe
 ```
